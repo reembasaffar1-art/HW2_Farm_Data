@@ -1,0 +1,51 @@
+shipment_id,fruit_type,variety,harvest_year,weight_kg,quality_grade,price,sweetness,customer_rating
+1,Apple,Gala,2020,320,Premium,1250,14.2,4.5
+2,Apple,Fuji,2019,480,Standard,980,13.5,4.2
+3,Apple,Granny Smith,2021,210,Economy,630,12.8,4.0
+4,Apple,Gala,2022,150,Premium,750,15.1,4.7
+5,Apple,Fuji,2018,560,Standard,1340,12.0,3.8
+6,Apple,Granny Smith,2023,90,Premium,540,14.8,4.6
+7,Apple,Gala,2020,410,Economy,1025,13.2,4.1
+8,Apple,Fuji,2021,280,Standard,980,13.9,4.3
+9,Apple,Granny Smith,2019,520,Premium,1820,14.5,4.4
+10,Apple,Gala,2022,60,Premium,480,15.5,4.8
+11,Apple,Fuji,2020,330,Economy,825,12.5,3.9
+12,Apple,Granny Smith,2021,440,Standard,1320,13.0,4.2
+13,Banana,Cavendish,2020,1200,Standard,2400,16.2,4.3
+14,Banana,Red Banana,2019,850,Premium,2125,17.5,4.6
+15,Banana,Lady Finger,2021,600,Economy,1500,15.0,4.1
+16,Banana,Cavendish,2022,1400,Standard,3500,16.8,4.4
+17,Banana,Red Banana,2020,720,Premium,2160,18.0,4.7
+18,Banana,Lady Finger,2018,950,Economy,1900,14.5,3.9
+19,Banana,Cavendish,2023,1100,Premium,3300,17.2,4.8
+20,Banana,Red Banana,2021,680,Standard,1700,16.5,4.2
+21,Orange,Navel,2020,450,Premium,1350,12.0,4.5
+22,Orange,Valencia,2019,580,Standard,1450,11.5,4.1
+23,Orange,Blood Orange,2021,320,Economy,800,13.2,4.3
+24,Orange,Navel,2022,610,Premium,1830,12.8,4.6
+25,Orange,Valencia,2020,490,Standard,1225,11.0,4.0
+26,Orange,Blood Orange,2018,720,Economy,1440,10.5,3.7
+27,Orange,Navel,2023,280,Premium,1120,13.5,4.7
+28,Orange,Valencia,2021,530,Standard,1590,11.8,4.2
+29,Strawberry,Albion,2021,180,Premium,1080,10.2,4.5
+30,Strawberry,Chandler,2020,220,Standard,880,9.5,4.2
+31,Strawberry,Seascape,2019,150,Economy,525,8.8,3.8
+32,Strawberry,Albion,2022,200,Premium,1200,11.0,4.6
+33,Strawberry,Chandler,2020,190,Standard,760,9.0,4.0
+34,Strawberry,Seascape,2021,140,Economy,560,9.2,4.1
+35,Grape,Thompson,2020,320,Premium,1600,16.5,4.6
+36,Grape,Concord,2019,400,Standard,1400,15.0,4.3
+37,Grape,Crimson,2021,280,Economy,980,17.0,4.5
+38,Grape,Thompson,2022,360,Premium,1980,18.0,4.8
+39,Grape,Concord,2020,420,Standard,1470,15.5,4.2
+40,Mango,Alphonso,2021,300,Premium,1800,16.2,4.7
+41,Mango,Kent,2020,380,Standard,1520,15.5,4.4
+42,Mango,Haden,2019,250,Economy,875,14.0,4.0
+43,Mango,Alphonso,2022,340,Premium,2040,17.5,4.8
+44,Mango,Kent,2021,310,Standard,1240,15.0,4.3
+45,Pineapple,Smooth Cayenne,2020,520,Premium,2080,14.5,4.5
+46,Pineapple,Queen,2019,480,Standard,1440,13.2,4.2
+47,Pineapple,Red Spanish,2021,400,Economy,1200,12.8,4.0
+48,Pineapple,Smooth Cayenne,2022,560,Premium,2240,15.0,4.6
+49,Apple,Gala,2020,300,Standard,900,13.5,4.2
+50,Banana,Cavendish,2021,950,Premium,2850,16.8,4.5
