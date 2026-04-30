@@ -5,7 +5,7 @@ STU-2338,18,Data Science,Perplexity,2,Literature Review,2.57,2.57,15,High,7
 STU-1380,19,Biology,Claude 3.5,5,Essay Drafting,2.67,2.87,12,Low,5
 STU-1837,19,Biology,ChatGPT-4o,10,Code Debugging,3.65,3.85,5,High,9
 STU-0052,19,Software Engineering,ChatGPT-4o,4,Essay Drafting,3.21,3.41,8,Medium,4
-STU-4953,19,Business Administration,GitHub Copilot,1,Exam Prep,3.87,3.97,7,Low,1
+STU-4953,19,Business Administration,GitHub Copilot,1,Exam Prep,-3.87,3.97,7,Low,1
 STU-1723,20,Fine Arts,Perplexity,3,Exam Prep,3.18,3.08,2,Medium,9
 STU-5100,20,Fine Arts,ChatGPT-4o,1,Literature Review,3.25,3.35,13,Medium,8
 STU-7291,19,Fine Arts,GitHub Copilot,5,Exam Prep,3.43,3.33,10,Medium,3
@@ -40,7 +40,7 @@ STU-6816,24,Biology,GitHub Copilot,6,Essay Drafting,2.89,3.19,11,Low,1
 STU-3832,22,Biology,GitHub Copilot,8,Code Debugging,3.82,3.7199999999999998,11,Medium,9
 STU-1539,23,Business Administration,Gemini Pro,4,Brainstorming,3.99,4.0,2,Low,3
 STU-4811,22,Fine Arts,Claude 3.5,3,Code Debugging,3.46,3.76,3,Medium,8
-STU-1992,20,Fine Arts,GitHub Copilot,5,Essay Drafting,2.89,2.79,7,High,7
+STU-1992,20,Fine Arts,GitHub Copilot,5,Essay Drafting,-2.89,2.79,7,High,7
 STU-5235,20,Business Administration,GitHub Copilot,7,Code Debugging,2.99,3.1900000000000004,3,Low,3
 STU-7720,21,Biology,GitHub Copilot,10,Literature Review,2.84,2.84,5,Low,4
 STU-8242,23,Business Administration,Gemini Pro,8,Exam Prep,2.77,2.67,12,Low,2
